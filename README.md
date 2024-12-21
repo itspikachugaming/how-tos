@@ -26,3 +26,5 @@ These are all of the projects I have used over the years. This provides a easy p
 ## CUPS Printing
 
 ## Twingate VPN
+
+## Wake on lan (windows & ubuntu)
